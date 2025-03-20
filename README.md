@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jonathan! <br/><a href="https://github.com/joshmadakor1">Aspiring Cybersecurity professional</a>, <a href="https://www.linkedin.com/in/jonathan-colebourn-20b3751a0/">IT Support Professional</a>,
+<h1>Hi, I'm Jonathan! Aspiring Cybersecurity professional</a>, <a href="https://www.linkedin.com/in/jonathan-colebourn-20b3751a0/">IT Support Professional</a>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
