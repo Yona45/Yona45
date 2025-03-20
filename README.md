@@ -1,7 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Jonathan! <br/><a href="https://github.com/joshmadakor1">Aspiring Cybersecurity professional</a>, <a href="https://www.linkedin.com/in/jonathan-colebourn-20b3751a0/">IT Support Professional</a>,
+  
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<!--
-**Yona45/Yona45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h2> Other Projects </h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+https://www.linkedin.com/in/jonathan-colebourn-20b3751a0/
+
 
 Here are some ideas to get you started:
 
